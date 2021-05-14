@@ -1,0 +1,50 @@
+C:\Users\mansve1\OneDrive - Kaunas University of Technology\2 semestras\OP\Hangman (2015 visual)\Hangman2015\bin\Debug\Hangman2015.exe.config
+C:\Users\mansve1\OneDrive - Kaunas University of Technology\2 semestras\OP\Hangman (2015 visual)\Hangman2015\bin\Debug\Hangman2015.exe
+C:\Users\mansve1\OneDrive - Kaunas University of Technology\2 semestras\OP\Hangman (2015 visual)\Hangman2015\bin\Debug\Hangman2015.pdb
+C:\Users\mansve1\OneDrive - Kaunas University of Technology\2 semestras\OP\Hangman (2015 visual)\Hangman2015\obj\Debug\Hangman2015.csprojResolveAssemblyReference.cache
+C:\Users\mansve1\OneDrive - Kaunas University of Technology\2 semestras\OP\Hangman (2015 visual)\Hangman2015\obj\Debug\Hangman2015.Properties.Resources.resources
+C:\Users\mansve1\OneDrive - Kaunas University of Technology\2 semestras\OP\Hangman (2015 visual)\Hangman2015\obj\Debug\Hangman2015.csproj.GenerateResource.Cache
+C:\Users\mansve1\OneDrive - Kaunas University of Technology\2 semestras\OP\Hangman (2015 visual)\Hangman2015\obj\Debug\Hangman2015.exe
+C:\Users\mansve1\OneDrive - Kaunas University of Technology\2 semestras\OP\Hangman (2015 visual)\Hangman2015\obj\Debug\Hangman2015.pdb
+C:\Users\zmogu\Desktop\MANTO (PROGRAMAVIMO DALYKAI)\Antras semestras\Hangman2.0\Hangman2015\bin\Debug\Hangman2015.exe.config
+C:\Users\zmogu\Desktop\MANTO (PROGRAMAVIMO DALYKAI)\Antras semestras\Hangman2.0\Hangman2015\bin\Debug\Hangman2015.exe
+C:\Users\zmogu\Desktop\MANTO (PROGRAMAVIMO DALYKAI)\Antras semestras\Hangman2.0\Hangman2015\bin\Debug\Hangman2015.pdb
+C:\Users\zmogu\Desktop\MANTO (PROGRAMAVIMO DALYKAI)\Antras semestras\Hangman2.0\Hangman2015\obj\Debug\Hangman2015.csprojAssemblyReference.cache
+C:\Users\zmogu\Desktop\MANTO (PROGRAMAVIMO DALYKAI)\Antras semestras\Hangman2.0\Hangman2015\obj\Debug\Hangman2015.Properties.Resources.resources
+C:\Users\zmogu\Desktop\MANTO (PROGRAMAVIMO DALYKAI)\Antras semestras\Hangman2.0\Hangman2015\obj\Debug\Hangman2015.csproj.GenerateResource.cache
+C:\Users\zmogu\Desktop\MANTO (PROGRAMAVIMO DALYKAI)\Antras semestras\Hangman2.0\Hangman2015\obj\Debug\Hangman2015.csproj.CoreCompileInputs.cache
+C:\Users\zmogu\Desktop\MANTO (PROGRAMAVIMO DALYKAI)\Antras semestras\Hangman2.0\Hangman2015\obj\Debug\Hangman2015.exe
+C:\Users\zmogu\Desktop\MANTO (PROGRAMAVIMO DALYKAI)\Antras semestras\Hangman2.0\Hangman2015\obj\Debug\Hangman2015.pdb
+C:\Users\mansve1\OneDrive - Kaunas University of Technology\2 semestras\OP\Hangman2.0\Hangman2015\bin\Debug\Hangman2015.exe.config
+C:\Users\mansve1\OneDrive - Kaunas University of Technology\2 semestras\OP\Hangman2.0\Hangman2015\obj\Debug\Hangman2015.exe
+C:\Users\mansve1\OneDrive - Kaunas University of Technology\2 semestras\OP\Hangman2.0\Hangman2015\obj\Debug\Hangman2015.pdb
+C:\Users\mansve1\OneDrive - Kaunas University of Technology\2 semestras\OP\Hangman2.0\Hangman2015\bin\Debug\Hangman2015.exe
+C:\Users\mansve1\OneDrive - Kaunas University of Technology\2 semestras\OP\Hangman2.0\Hangman2015\bin\Debug\Hangman2015.pdb
+C:\Users\mansve1\OneDrive - Kaunas University of Technology\2 semestras\OP\Hangman2.0\Hangman2015\obj\Debug\Hangman2015.csprojResolveAssemblyReference.cache
+C:\Users\mansve1\OneDrive - Kaunas University of Technology\2 semestras\OP\Hangman2.0\Hangman2015\obj\Debug\Hangman2015.Properties.Resources.resources
+C:\Users\mansve1\OneDrive - Kaunas University of Technology\2 semestras\OP\Hangman2.0\Hangman2015\obj\Debug\Hangman2015.csproj.GenerateResource.Cache
+C:\Users\zmogu\Desktop\MANTO (PROGRAMAVIMO DALYKAI)\Antras semestras\Hangman2.0\Hangman2.0\bin\Debug\Hangman2015.exe.config
+C:\Users\zmogu\Desktop\MANTO (PROGRAMAVIMO DALYKAI)\Antras semestras\Hangman2.0\Hangman2.0\bin\Debug\Hangman2015.exe
+C:\Users\zmogu\Desktop\MANTO (PROGRAMAVIMO DALYKAI)\Antras semestras\Hangman2.0\Hangman2.0\bin\Debug\Hangman2015.pdb
+C:\Users\zmogu\Desktop\MANTO (PROGRAMAVIMO DALYKAI)\Antras semestras\Hangman2.0\Hangman2.0\obj\Debug\Hangman2015.csprojAssemblyReference.cache
+C:\Users\zmogu\Desktop\MANTO (PROGRAMAVIMO DALYKAI)\Antras semestras\Hangman2.0\Hangman2.0\obj\Debug\Hangman2015.Properties.Resources.resources
+C:\Users\zmogu\Desktop\MANTO (PROGRAMAVIMO DALYKAI)\Antras semestras\Hangman2.0\Hangman2.0\obj\Debug\Hangman2015.csproj.GenerateResource.cache
+C:\Users\zmogu\Desktop\MANTO (PROGRAMAVIMO DALYKAI)\Antras semestras\Hangman2.0\Hangman2.0\obj\Debug\Hangman2015.csproj.CoreCompileInputs.cache
+C:\Users\zmogu\Desktop\MANTO (PROGRAMAVIMO DALYKAI)\Antras semestras\Hangman2.0\Hangman2.0\obj\Debug\Hangman2015.exe
+C:\Users\zmogu\Desktop\MANTO (PROGRAMAVIMO DALYKAI)\Antras semestras\Hangman2.0\Hangman2.0\obj\Debug\Hangman2015.pdb
+C:\Users\User\Desktop\Mantellomokslai\Praeita\Hangman2.0\bin\Debug\Hangman2015.exe.config
+C:\Users\User\Desktop\Mantellomokslai\Praeita\Hangman2.0\bin\Debug\Hangman2015.exe
+C:\Users\User\Desktop\Mantellomokslai\Praeita\Hangman2.0\bin\Debug\Hangman2015.pdb
+C:\Users\User\Desktop\Mantellomokslai\Praeita\Hangman2.0\obj\Debug\Hangman2015.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Mantellomokslai\Praeita\Hangman2.0\obj\Debug\Hangman2015.Properties.Resources.resources
+C:\Users\User\Desktop\Mantellomokslai\Praeita\Hangman2.0\obj\Debug\Hangman2015.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Mantellomokslai\Praeita\Hangman2.0\obj\Debug\Hangman2015.exe
+C:\Users\User\Desktop\Mantellomokslai\Praeita\Hangman2.0\obj\Debug\Hangman2015.pdb
+C:\Users\User\Desktop\Mantellomokslai\Praeita\PagamintiProjektėliai\Hangman2.0\bin\Debug\Hangman2015.exe.config
+C:\Users\User\Desktop\Mantellomokslai\Praeita\PagamintiProjektėliai\Hangman2.0\bin\Debug\Hangman2015.exe
+C:\Users\User\Desktop\Mantellomokslai\Praeita\PagamintiProjektėliai\Hangman2.0\bin\Debug\Hangman2015.pdb
+C:\Users\User\Desktop\Mantellomokslai\Praeita\PagamintiProjektėliai\Hangman2.0\obj\Debug\Hangman2015.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Mantellomokslai\Praeita\PagamintiProjektėliai\Hangman2.0\obj\Debug\Hangman2015.Properties.Resources.resources
+C:\Users\User\Desktop\Mantellomokslai\Praeita\PagamintiProjektėliai\Hangman2.0\obj\Debug\Hangman2015.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Mantellomokslai\Praeita\PagamintiProjektėliai\Hangman2.0\obj\Debug\Hangman2015.exe
+C:\Users\User\Desktop\Mantellomokslai\Praeita\PagamintiProjektėliai\Hangman2.0\obj\Debug\Hangman2015.pdb

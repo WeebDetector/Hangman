@@ -1,0 +1,10 @@
+Times the game has been played: 15
+Times the users have won the game: 6
+Times the users have lost the game: 3
+Times the users have picked Easy difficulty: 9
+Times the users have picked Medium difficulty: 0
+Times the users have picked Hard difficulty: 0
+Times the users have picked Impossible difficulty: 2
+Times the users have picked Nature topic: 3
+Times the users have picked Technology topic: 0
+Times the users have picked random words: 3
